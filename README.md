@@ -1,4 +1,4 @@
-# type lists
+# HTML-CSS
  HTML 
 
- Primeiro repositório criado, com tipos de listas em HTML!
+ Primeiro repositório criado!
